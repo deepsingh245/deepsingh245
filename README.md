@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh245&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh245" /> </p>
 
-- 🔭 I’m currently working on **Attendance System with Face Recognition**
+- 🔭 I’m currently working on **3D Interactive Websites**
 - 📫 How to reach me **deepsingh25244@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
