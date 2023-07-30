@@ -49,6 +49,11 @@
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  
+<a href="https://app.spline.design/home" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/71355536?s=200&v=4" alt="tailwind" width="40" height="40"/></a> </p>
-
+  
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png?size=48" alt="aws" width="40" height="40"/></a> </p>
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsingh245&show_icons=true&locale=en&layout=compact" alt="deepsingh245" /></p>
