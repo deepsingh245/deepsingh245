@@ -56,8 +56,8 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png?size=48" alt="aws" width="40" height="40"/></a>
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
   </p>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsingh245&show_icons=true&locale=en&layout=compact" alt="deepsingh245" /></p>
