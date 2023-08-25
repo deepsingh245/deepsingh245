@@ -58,6 +58,10 @@
 
 <a href="https://https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  </p>
+  <a href="#" target="_blank" rel="noreferrer"> 
+  <img src="https://imgs.search.brave.com/LXGeAio8rJJcQK1ls0D5P6VFETKwhPIoLWwQRjFNq9Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2FuZHJvaWQtbG9n/by1wbmcvYW5kcm9p/ZC1sb2dvLTAucG5n" alt="Android" width="40" height="40"/></a>
   
+  </p>
+
+    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsingh245&show_icons=true&locale=en&layout=compact" alt="deepsingh245" /></p>
