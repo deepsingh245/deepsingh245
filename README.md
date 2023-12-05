@@ -65,5 +65,3 @@
   </p>
  <img src='https://api.githubtrends.io/user/svg/deepsingh245/repos?time_range=six_months&theme=bright_lights'/>
 
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsingh245&show_icons=true&locale=en&layout=compact" alt="deepsingh245" /></p>
