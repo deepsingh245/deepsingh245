@@ -63,5 +63,5 @@
    
   
   </p>
- <img src='https://api.githubtrends.io/user/svg/deepsingh245/repos?time_range=six_months&theme=bright_lights'/>
+ <img src='https://github.com/deepsingh245/deepsingh245/assets/80377963/1b455d33-f469-4071-aa23-547fbe2b149b'/>
 
