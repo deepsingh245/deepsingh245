@@ -63,6 +63,12 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
   <a href="#" target="_blank" rel="noreferrer"> 
   <img src="https://imgs.search.brave.com/LXGeAio8rJJcQK1ls0D5P6VFETKwhPIoLWwQRjFNq9Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2FuZHJvaWQtbG9n/by1wbmcvYW5kcm9p/ZC1sb2dvLTAucG5n" alt="Android" width="40" height="40"/></a>
+  
+  <a href="#" target="_blank" rel="noreferrer"> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzBi45HXAbgiDwur_NYpYHzWaccngbhyQvA&s" alt="Ionic" width="40" height="40"/></a>\
+
+  <a href="#" target="_blank" rel="noreferrer"> 
+  <img src="https://firebase.google.com/images/lockup.svg" alt="Firebase" width="40" height="40"/></a>
    
   
   </p>
