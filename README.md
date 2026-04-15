@@ -1,76 +1,165 @@
-<h1 align="center">Hi 👋, I'm Deep Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# ⚡ DEEP SINGH
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepsingh245&label=Profile%20views&color=0e75b6&style=flat" alt="deepsingh245" /> </p>
+## 🚀 Full Stack Engineer • Product Systems
 
-- 🔭 I’m currently working on **3D Interactive Websites**, **AR in web development**
-- 📫 How to reach me **deepsingh25244@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00F7FF&background=ffffff00&width=800&lines=Scalable+product+systems;AI+features+with+observability;Secure+backend+architecture;Reliable+delivery+at+scale" alt="Typing SVG" />
 </p>
-<a href="https://linkedin.com/in/simrandeep-singh-7bb74b234" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simrandeep-singh-7bb74b234" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepsingh245&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://deepsingh.netlify.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/simrandeep-singh-7bb74b234">LinkedIn</a>
+</p>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-21-blue?style=for-the-badge&logo=github" alt="Public repos" />
+  <img src="https://img.shields.io/badge/Followers-2-blue?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/Systems-Built+for+scale-2563EB?style=for-the-badge" alt="Systems" />
+</p>
 
-<a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+# 🧠 PORTFOLIO
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+## 👨‍💻 Who Am I?
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+```mermaid
+graph LR
+  A[Deep Singh] --> B[AI + Full Stack Engineer]
+  A --> C[Platform Architect]
+  A --> D[Security-first Builder]
+  A --> E[Operational Reliability]
+  B --> F[API Design]
+  C --> G[Data-driven systems]
+  D --> H[Auth + compliance]
+  E --> I[Observability]
+```
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+- Build production-grade platforms and backend services
+- Ship AI-enabled product features with observability
+- Design secure APIs, multi-tenant flows, and compliance-aware systems
+- Optimize delivery, reliability, and operational resilience
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+---
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+# 🚀 FEATURED SYSTEMS
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>LDGERS Platform</strong>
+      <ul>
+        <li>Finance system architecture with SSL / VAPT compliance</li>
+        <li>React Native apps designed for reliability</li>
+        <li>Audit-ready reporting, invoicing, and access controls</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>HRMS + Attendify</strong>
+      <ul>
+        <li>Multi-tenant HR lifecycle and RBAC dashboards</li>
+        <li>Geo-aware attendance, analytics, and policy enforcement</li>
+        <li>AI automation for workforce operations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="react" width="40" height="40"/> </a>
-  
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  
-<a href="https://app.spline.design/home" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/71355536?s=200&v=4" alt="tailwind" width="40" height="40"/></a> </p>
-  
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png?size=48" alt="AWS" width="40" height="40"/></a>
+---
 
-<a href="https://https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="#" target="_blank" rel="noreferrer"> 
-  <img src="https://imgs.search.brave.com/LXGeAio8rJJcQK1ls0D5P6VFETKwhPIoLWwQRjFNq9Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2FuZHJvaWQtbG9n/by1wbmcvYW5kcm9p/ZC1sb2dvLTAucG5n" alt="Android" width="40" height="40"/></a>
-  
-  <a href="#" target="_blank" rel="noreferrer"> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBzBi45HXAbgiDwur_NYpYHzWaccngbhyQvA&s" alt="Ionic" width="40" height="40"/></a>\
+# 🧩 CURRENT MISSION
 
-  <a href="#" target="_blank" rel="noreferrer"> 
-  <img src="https://firebase.google.com/images/lockup.svg" alt="Firebase" width="40" height="40"/></a>
-   
-  
-  </p>
- <img src='https://github.com/deepsingh245/deepsingh245/assets/80377963/1b455d33-f469-4071-aa23-547fbe2b149b'/>
+```mermaid
+mindmap
+  root((Mission))
+    Product
+      AI((AI experiences))
+      UX((Fast UX))
+    Platform
+      API((Scalable APIs))
+      Infra((Resilient infrastructure))
+      Security((Secure delivery))
+    Operations
+      Observability((Monitoring))
+      Flow((CI/CD + release flow))
+```
+
+- Enable product velocity while keeping operational risk low
+- Use observability as the baseline for decision-making
+- Build architecture for data, scale, and stability
+- Apply immersive interfaces selectively when they add value
+
+---
+
+# 🛠️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,ionic,reactnative,nodejs,express,mongodb,firestore,redis,gcp,aws,firebase,jest" alt="Tech stack icons" style="max-width: 100%;" />
+</p>
+
+---
+
+# ⚙️ SYSTEM DESIGN MINDSET
+
+```mermaid
+flowchart LR
+  UI[UI / Frontend] --> API[API Layer]
+  API --> Services[Backend Services]
+  Services --> DB[Database]
+  Services --> Cache[Cache]
+  Services --> Events[Event pipeline]
+  Services --> Observability[Observability]
+  Observability --> Ops[Operations]
+  Ops --> API
+```
+
+- Modular architecture with defined boundaries
+- Resilient APIs and secure service design
+- Observability and operations built in from day one
+- Production-ready systems with measurable uptime
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepsingh245&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="360" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepsingh245&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="360" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsingh245&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="max-width: 100%;" />
+</p>
+
+---
+
+# 🧠 DEV DNA
+
+```javascript
+const deep = {
+  mindset: "Build resilient product systems",
+  specialization: ["API architecture", "AI-enabled features", "secure delivery"],
+  focus: ["scalability", "observability", "operational readiness"],
+  currentGoal: "Ship reliable, data-driven platforms at scale"
+};
+```
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com/in/simrandeep-singh-7bb74b234"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <strong>Not just systems. Reliable product engineering.</strong>
+</p>
+
 
